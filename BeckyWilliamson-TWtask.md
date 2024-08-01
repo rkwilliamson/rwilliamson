@@ -2,7 +2,7 @@
 
 *Before you can use the Hub, you need to create a Matillion account and set up your Matillion profile. Follow the steps below to start using the Hub.*
 
-## Creating your account
+## Create an account
 Creating a Matillion account is simple:
 1. Go to the [Hub](https://hub.matillion.com/).
 2. Click the **Sign up** tab.
@@ -14,10 +14,10 @@ Creating a Matillion account is simple:
     > If you used your email address and password to create your account, you will receive a verification email. Click **Activate Account** in this email to verify your email address.
     > If you do not receive an email, check your Spam folder. If you still have not received an email, click **Resend email** to receive a new link.
 
-## Setting up your profile
+## Set up your profile
 After creating your account, complete your profile:
 1. Answer two brief questions to help us understand how you want to use the Hub, then click **Continue**.
-    > This helps us to provide a better experience for our users.
+    > This feedback helps us to provide a better experience for our users.
 2. Fill in your personal details and choose whether to receive emails from us, then click **Continue**.
 3. Choose the region you are based in, then click **Continue**.
     > This is where your Matillion account will be created.
